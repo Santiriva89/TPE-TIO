@@ -9,3 +9,45 @@ CMS (para administrar contenido): WordPress, Strapi, Ghost.
 Automatización y Build Tools: Webpack, Vite, Parcel.
 
 Testing: Jest, Cypress (para asegurar calidad del código).
+  
+
+
+Oracle Database
+
+Licencia: Propietaria (se paga por CPU, usuario o instancias).
+
+Opciones: Ediciones como Enterprise, Standard, Express (limitada pero gratuita).
+
+Muy usado en empresas grandes (bancos, seguros, gobiernos).
+
+Microsoft SQL Server
+
+Licencia: Comercial, pero tiene ediciones gratuitas limitadas (SQL Server Express).
+
+Opciones: Standard, Enterprise, Express, Web.
+
+Integra muy bien con todo el ecosistema de Microsoft.
+
+IBM Db2
+
+Licencia: Comercial, con modelo flexible por suscripción o por capacidad.
+
+Opciones: Community Edition (gratis con limitaciones) y versiones Enterprise.
+
+Orientado a grandes volúmenes de datos y entornos corporativos.
+
+SAP HANA
+
+Licencia: Comercial.
+
+Opciones: Se paga según uso en memoria y nodos.
+
+Muy usado para analítica en tiempo real y en empresas que usan SAP.
+
+Amazon Aurora (AWS)
+
+Licencia: Servicio comercial en la nube (pago por uso).
+
+Opciones: Compatible con MySQL y PostgreSQL.
+
+Se paga por hora de instancia y almacenamiento consumido.
