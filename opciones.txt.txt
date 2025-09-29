@@ -1,1 +1,0 @@
-el registro de un usuario nuevo se basa en que rellene los campos requerido obligatoriamente, y a la hora de ingresar DNI, ciudad y código postal corresponda a un DNI de una persona no fallecida, la ciudad que sea existente y el código postal corresponda con la ciudad que ingresó previamente.
