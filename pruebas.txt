@@ -1,1 +1,5 @@
-se hizo una prueba en la pagina web y se encontraron fallos """
+se hizo una prueba en la pagina web y se encontraron algunos fallos """
+
+Versión 1 ….
+Versión 2 …
+  
