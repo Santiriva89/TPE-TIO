@@ -1,0 +1,11 @@
+Herramientas y extras
+
+Control de versiones: Git + GitHub/GitLab/Bitbucket.
+
+APIs externas: mapas (Google Maps), pagos (MercadoPago/Stripe), redes sociales.
+
+CMS (para administrar contenido): WordPress, Strapi, Ghost.
+
+Automatización y Build Tools: Webpack, Vite, Parcel.
+
+Testing: Jest, Cypress (para asegurar calidad del código).
