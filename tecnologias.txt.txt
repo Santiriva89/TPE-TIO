@@ -50,4 +50,4 @@ Licencia: Servicio comercial en la nube (pago por uso).
 
 Opciones: Compatible con MySQL y PostgreSQL.
 
-Se modifico esto
+Se paga por hora de instancia y almacenamiento consumido.
