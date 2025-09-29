@@ -1,3 +1,4 @@
 encontrados faltas de ortografías
 
 poniendo una linea de texto a pantallas.txt
+linea mariano
