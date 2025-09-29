@@ -1,3 +1,1 @@
-Problemas de ortografía
-Nombres no representativos
-Pruebas 1, 2 y 3
+se hizo una prueba en la pagina web y se encontraron fallos """
